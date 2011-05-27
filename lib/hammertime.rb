@@ -1,3 +1,4 @@
+# http://blog.stochasticbytes.com/2011/01/rubys-threaderror-deadlock-recursive-locking-bug/
 require "thread"
 class Mutex
   def lock_with_hack
